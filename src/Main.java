@@ -34,8 +34,8 @@ public class Main {
         for (int i = 0; i < number8.length; i++){
             if (number8[i] % 2 !=0){
                 number8[i] += 1;
-            System.out.println(Arrays.toString(number8));
+                System.out.println(Arrays.toString(number8));
             }
         }
-        }
     }
+}
