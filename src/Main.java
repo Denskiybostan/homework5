@@ -1,8 +1,6 @@
 import java.util.Arrays;
 
 public class Main {
-    private static double aDouble;
-
     public static void main(String[] args) {
         int [] number = new int[3];
         number[0] = 1;
