@@ -10,7 +10,6 @@ public class Main {
         double [] number1 = {1.57, 7.654, 9.986};
         System.out.println(number1[1]);
         int [] numbers = {10, 9, 8, 7, 6, 5, 4, 3};
-        numbers[0] = 10;
         System.out.println(numbers[3]);
         int [] number4 = {1,2,3};
         for (int i = 0; i < number4.length; i++) {
